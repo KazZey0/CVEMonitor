@@ -13,3 +13,11 @@ docker pull python:alpine
 bash build.sh
 bash start.sh
 ```
+
+Current version:
+POC source:
++ github
+
+Push message:
++ telegram
+
